@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.cover {
+  height: 100vh;
+  background-image: url(/img/cloud.avif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
